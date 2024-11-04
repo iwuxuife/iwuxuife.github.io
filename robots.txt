@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iwuxuife.github.io/JOP/sitemap_index.txt
+Sitemap: https://iwuxuife.github.io/Zrb/sitemap_index.txt
+Sitemap: https://iwuxuife.github.io/mVI/sitemap_index.txt
+Sitemap: https://iwuxuife.github.io/uyK/sitemap_index.txt
